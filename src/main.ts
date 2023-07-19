@@ -1,5 +1,5 @@
 import {createApp} from 'vue'
-import App from './view/View12.vue'
+import App from './view/View14.vue'
 
 import {setGlobalOptions} from 'vue-request';
 
